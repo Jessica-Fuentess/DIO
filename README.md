@@ -1,2 +1,2 @@
 # DIO
-desafio DIO
+desafio DI
